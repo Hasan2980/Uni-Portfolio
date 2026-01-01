@@ -1,2 +1,18 @@
-The following Python code is a program in which a simulation is displayed showcasing a companies assets, human & AI/robotic
-An overview is displayed where activities etc can be viewed and workers assigned to different roles/tasks.
+# Robotic Cell Management System
+
+A python command-line simulation modelling a companies production cell resources (human & AI workers)
+
+## Features
+- Add & remove robots and workers
+- Track resource status e.g. "idle", "working"
+- Assign tasks using available resources
+- Input validadtion preventing invalid IDs
+- Error handling
+- Menu driven CLI
+
+## Tech Used
+- Data structures: dictionaries for resources and lists for tasks/products
+- Basic validation
+
+### Requirements 
+- Python 3.x installed
